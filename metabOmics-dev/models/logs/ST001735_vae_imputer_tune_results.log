@@ -1,0 +1,16 @@
+A new study created in memory with name: ST001735-MetaboliteVAE-Hyperparameter-Tuning
+Trial 0 finished with value: 0.4079560920888302 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0006568996933015327, 'latent_dim': 19}. Best is trial 0 with value: 0.4079560920888302.
+Trial 1 finished with value: 0.4213290801819633 and parameters: {'optimizer': 'SGD', 'learning_rate': 0.0006985627642977486, 'latent_dim': 36}. Best is trial 0 with value: 0.4079560920888302.
+Trial 2 finished with value: 0.40800144596427096 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0005810977931617924, 'latent_dim': 23}. Best is trial 0 with value: 0.4079560920888302.
+Trial 3 finished with value: 0.5062506619621726 and parameters: {'optimizer': 'SGD', 'learning_rate': 0.00014816921581717484, 'latent_dim': 50}. Best is trial 0 with value: 0.4079560920888302.
+Trial 4 finished with value: 0.4213914774796542 and parameters: {'optimizer': 'SGD', 'learning_rate': 0.00031823293187496917, 'latent_dim': 22}. Best is trial 0 with value: 0.4079560920888302.
+Trial 5 finished with value: 0.41820789990471857 and parameters: {'optimizer': 'SGD', 'learning_rate': 0.0007848050051828347, 'latent_dim': 50}. Best is trial 0 with value: 0.4079560920888302.
+Trial 6 finished with value: 0.4087831001071369 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0008881507176285043, 'latent_dim': 28}. Best is trial 0 with value: 0.4079560920888302.
+Trial 7 finished with value: 0.4080610146709517 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.00035196820387124153, 'latent_dim': 9}. Best is trial 0 with value: 0.4079560920888302.
+Trial 8 finished with value: 0.40790650131655676 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0009749814188787802, 'latent_dim': 5}. Best is trial 8 with value: 0.40790650131655676.
+Trial 9 finished with value: 0.41999762724427614 and parameters: {'optimizer': 'SGD', 'learning_rate': 0.0005779047074391585, 'latent_dim': 24}. Best is trial 8 with value: 0.40790650131655676.
+Trial 10 finished with value: 0.4078371273536308 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0009905522449467786, 'latent_dim': 7}. Best is trial 10 with value: 0.4078371273536308.
+Trial 11 finished with value: 0.4078683794713488 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0009977189428033906, 'latent_dim': 7}. Best is trial 10 with value: 0.4078371273536308.
+Trial 12 finished with value: 0.4079871750345417 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0009572919895518462, 'latent_dim': 14}. Best is trial 10 with value: 0.4078371273536308.
+Trial 13 finished with value: 0.40790332532396506 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0008316412532031554, 'latent_dim': 10}. Best is trial 10 with value: 0.4078371273536308.
+Trial 14 finished with value: 0.40797406873282266 and parameters: {'optimizer': 'Adam', 'learning_rate': 0.0009980295353105488, 'latent_dim': 5}. Best is trial 10 with value: 0.4078371273536308.
